@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/stmcginnis/gofish/common"
+	"github.com/ZainubW/gofish/common"
 )
 
 var dataStorageLoSCapabilitiesBody = `{
