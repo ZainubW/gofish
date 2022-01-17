@@ -24,7 +24,7 @@ package main
 import (
     "fmt"
 
-    "github.com/stmcginnis/gofish"
+   "github.com/ZainubW/gofish"
 )
 
 func main() {
