@@ -60,7 +60,6 @@ linters:
     - goconst
     - gocritic
     - gocyclo
-    - goheader
     - goimports
     - golint
     - gomnd
