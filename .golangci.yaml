@@ -70,8 +70,6 @@ linters:
     - ineffassign
     - misspell
     - nakedret
-    - noctx
-    - nolintlint
     - rowserrcheck
     - staticcheck
     - structcheck
