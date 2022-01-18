@@ -1,3 +1,3 @@
-module github.com/ZainubW/gofish
+module gofish
 
 go 1.13
